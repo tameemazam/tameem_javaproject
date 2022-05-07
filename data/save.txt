@@ -1,0 +1,8 @@
+Level1
+Asteroids,2.25,-8.0
+Asteroids,14.25,4.0
+Asteroids,-8.75,21.0
+Asteroids,16.25,16.0
+Asteroids,-17.75,-5.0
+Asteroids,-28.75,8.0
+Spaceship,-10.5,-20.00
